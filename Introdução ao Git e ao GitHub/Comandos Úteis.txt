@@ -1,0 +1,23 @@
+git help - Geral
+
+git init - Criar novo repositório local
+
+git status - Verificar estado dos arquivos/diretórios
+
+git add (nome do arquivo/diretório) - Adicionar arquivo/diretório específico
+git add . - Adicionar todos os arquivos/diretórios
+git add -f (nome do arquivo) - Adicionar um arquqivo listado no .gitignore (geral ou do repositório)
+
+git commit (nome do arquivo) - Comitar um arquivo
+git commit (nome do arquivo 1) (nome do arquivo 2) (...) - Comitar vários arquivos
+git commit -m "(mensagem de commit)" - Comitar informando mensagem
+
+git rm (nome do arquivo) - Remover arquivo
+git rm -r (nome do diretório) - Remover diretório
+
+git log - Exibir histórico
+git push origin main - Fazer o push de um arquivo
+git pull - Atualizar os arquivos locais no branch atual
+git clone (url) - Clonar um repositório remoto já existente
+
+git branch - Listar branches
